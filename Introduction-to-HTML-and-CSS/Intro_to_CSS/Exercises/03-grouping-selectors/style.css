@@ -1,0 +1,12 @@
+.btno,.btnt{
+    font-size:28px;
+    font-family:'Helvetica','Times New Roman', 'sans-serif';
+}
+.btno{
+    color: white;
+    background-color: black;
+}
+.btnt{
+    color:black;
+    background-color: yellow;
+}
